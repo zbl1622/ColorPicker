@@ -11,7 +11,7 @@ public class MainActivity extends AppCompatActivity {
     private ColorPickerView colorPickerView;
     private ColorDrawable colorDrawable;
 
-    private static final int INIT_COLOR = 0xFF5CACEE;
+    private static final int INIT_COLOR = 0xFF0000FF;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
